@@ -18,3 +18,7 @@ This is an adaptive AI agent built using the Google Gemini API, following SOLID 
 ## Usage
 
 Run the agent and interact via CLI.
+
+
+Assignment/ Practical Task: System Implementation, Testing, and Deployment for an AI- and Agent-Based Python System:
+https://github.com/santhoshyellu/-AI-assisted_software_solution-
